@@ -26,9 +26,8 @@
 
 ## Set the water volume in the surface and deep oceans.
 
-  Volume = 1.37e21/1.035                  ## mass in [kg] taken from CERC (1980) and 
-                                          ## converted to [L] using a density of 1.035
-                                          ## kg/L. 
+  Volume = 1.335e21/1.035                  ## mass in [kg] from NOAA calculations, cited
+                                           ## as Amante and Eakins in the SI. 
 
 
   f = .029                                ## Sets the partitioning of ocean volume 
